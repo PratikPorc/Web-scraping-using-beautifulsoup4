@@ -1,0 +1,150 @@
+[
+  {
+    "business_name": "New York City Bulk Item Curbside Program",
+    "last_update_date": "30-07-2025",
+    "street_address1": "",
+    "street_address2": "",
+    "street_address3": "New York, NY 10001",
+    "materials_category": [
+      "Dehumidifiers",
+      "Humidifiers"
+    ],
+    "materials_accepted": [
+      "Air Conditioners",
+      "Barbeque Grills",
+      "Carpet",
+      "Carpet Padding",
+      "Dishwashers"
+    ]
+  },
+  {
+    "business_name": "IMobile LLC",
+    "last_update_date": "30-07-2025",
+    "street_address1": "370 7th Ave",
+    "street_address2": "",
+    "street_address3": "New York, NY 10001",
+    "materials_category": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ],
+    "materials_accepted": []
+  },
+  {
+    "business_name": "The 4th Bin",
+    "last_update_date": "30-07-2025",
+    "street_address1": "307 7th Ave",
+    "street_address2": "",
+    "street_address3": "New York, NY 10001",
+    "materials_category": [
+      "Cell Phones",
+      "Desktop Computers",
+      "Inkjet Cartridges",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "MP3 Players",
+      "Toner Cartridges"
+    ],
+    "materials_accepted": []
+  },
+  {
+    "business_name": "Sprint Store",
+    "last_update_date": "30-07-2025",
+    "street_address1": "126 W 34th St",
+    "street_address2": "",
+    "street_address3": "New York, NY 10001",
+    "materials_category": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ],
+    "materials_accepted": []
+  },
+  {
+    "business_name": "Willoughby's",
+    "last_update_date": "30-07-2025",
+    "street_address1": "298 5th Ave",
+    "street_address2": "",
+    "street_address3": "New York, NY 10001",
+    "materials_category": [
+      "Cell Phones",
+      "Desktop Computers",
+      "Game Consoles",
+      "MP3 Players",
+      "Telephones"
+    ],
+    "materials_accepted": [
+      "Lithium-ion Batteries",
+      "Nickel-cadmium Batteries"
+    ]
+  },
+  {
+    "business_name": "Cartridge World",
+    "last_update_date": "30-07-2025",
+    "street_address1": "225 West 23rd Street",
+    "street_address2": "",
+    "street_address3": "New York, NY 10011",
+    "materials_category": [
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ],
+    "materials_accepted": []
+  },
+  {
+    "business_name": "ProTek Recycling Inc.",
+    "last_update_date": "30-07-2025",
+    "street_address1": "276 5th Avenue",
+    "street_address2": "",
+    "street_address3": "New York, NY 10001",
+    "materials_category": [
+      "Audio Equipment",
+      "Blu-Ray Players",
+      "Boomboxes",
+      "Cables",
+      "Calculators",
+      "Cassette Players",
+      "CD Players"
+    ],
+    "materials_accepted": []
+  },
+  {
+    "business_name": "Tekserve",
+    "last_update_date": "30-07-2025",
+    "street_address1": "119 W 23rd St",
+    "street_address2": "",
+    "street_address3": "New York, NY 10011",
+    "materials_category": [
+      "Desktop Computers",
+      "LCD Computer Monitors",
+      "Office Machines"
+    ],
+    "materials_accepted": []
+  },
+  {
+    "business_name": "Staples",
+    "last_update_date": "30-07-2025",
+    "street_address1": "500 8th Avenue",
+    "street_address2": "",
+    "street_address3": "New York, NY 10018",
+    "materials_category": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems"
+    ],
+    "materials_accepted": []
+  },
+  {
+    "business_name": "Cartridge World",
+    "last_update_date": "30-07-2025",
+    "street_address1": "155 West 35th Street",
+    "street_address2": "",
+    "street_address3": "New York, NY 10001",
+    "materials_category": [
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ],
+    "materials_accepted": []
+  }
+]
